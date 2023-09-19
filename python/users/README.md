@@ -24,10 +24,10 @@ A properly formated request, looks like this:
 
 ### Zip Code
 
-Zip codes vary from country to country. This app only supports US addresses which are simply five digits numbers. However, CodeWhisperer knows what a US zip code looks like, so you can just ask it for a function
+Zip codes vary from country to country. This app only supports US addresses which are simply five digits numbers. However, CodeWhisperer knows what a China zip code looks like, so you can just ask it for a function
 
 ```
-# Function to test if a string contains a five digit US zip code
+# Function to test if a string contains a China zip code
 ```
 
 ### Eamil Address

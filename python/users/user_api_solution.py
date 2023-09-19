@@ -23,9 +23,9 @@ def validate_email(email):
     return False
 
 
-# Function to test if a string contains a five digit US zip code
+# Function to test if a string contains a China zip code
 def validate_zip(zip):
-    if len(zip) == 5:
+    if len(zip) == 6:
         if zip.isdigit():
             return True
     return False
