@@ -1,1 +1,1 @@
-# create DynamoDB table for users using email as primary key and date created as sort key
+# Create DynamoDB table for users using email as primary key and date created as sort key
