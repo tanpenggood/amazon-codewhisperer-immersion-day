@@ -9,5 +9,17 @@
     - context
     - algorithms
     - testing
-    - sql
-    - bash
+
+## bash
+
+Add the `bash` floder.
+
+- example1.sh
+- example2.sh
+
+## sql/basics
+
+Add the `sql/basics` floder.
+
+- example1.sql
+
