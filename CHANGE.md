@@ -1,7 +1,11 @@
+## python/users
+
+1. adjust user_api.py::validate_zip to validate China zip, origin is US zip.
+
 ## python/basics
 
 1. rm origin example1.py ~ example4.py
-2. add floder
+2. add some floders
     - basic
     - single_line_comment
     - multi_line_comments
