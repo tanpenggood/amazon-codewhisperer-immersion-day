@@ -1,0 +1,1 @@
+# Function to moderate image with AWS Rekognition

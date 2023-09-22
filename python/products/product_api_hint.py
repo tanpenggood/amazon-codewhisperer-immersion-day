@@ -1,0 +1,1 @@
+# Patch get_products and test lambda_handler returns a multiple records
